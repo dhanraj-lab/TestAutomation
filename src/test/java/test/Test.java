@@ -1,0 +1,10 @@
+package test;
+
+public class Test {
+	int a = 10;
+	public void m1() {
+		System.out.println("welcome world");
+
+	}
+
+}
